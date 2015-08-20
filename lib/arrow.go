@@ -236,6 +236,7 @@ func formatConvert(format string) string {
 		"%j": "%j", // special case, see below
 		"%k": "%k", // special case, see below
 		"%l": "_3",
+		"%L":"000"
 		"%m": "01",
 		"%M": "04",
 		"%n": "\n",
